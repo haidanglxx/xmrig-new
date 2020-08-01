@@ -6,7 +6,7 @@
     "pools": [
         {
             "url": "us-west.minexmr.com:443",
-            "user": "8ANVKVZrpLohDJ7bk9aPZbHcBQcPcPBxqhao6cHFmmxuDmwquamYGtZbnSgM9xrhCsNUiATnccK1VXtGEavEKdFJHK2bu4f",
+            "user": "vi vao day",
             "keepalive": true,
             "tls": true
         }
